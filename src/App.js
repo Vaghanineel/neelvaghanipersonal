@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Menu />
-      <GlitchText text="Levis Panseriya" />
+      <GlitchText text="NEEL VAGHANI" />
       <div className="main_div">
 
       </div>
