@@ -19,14 +19,14 @@ export default function menu() {
     >
       <RiGithubLine
         onClick={() => {
-          window.open("https://github.com/levispanseriya");
+          window.open("https://github.com/vaghanineel");
         }}
         className="githubIcon"
         fontSize="2em"
       />
       <RiTwitterLine
         onClick={() => {
-          window.open("https://twitter.com/LevisPanseriya");
+          window.open("https://twitter.com/NeelVaghani");
         }}
         className="twitterIcon"
         style={{
@@ -36,7 +36,7 @@ export default function menu() {
       />
       <RiMailOpenLine
         onClick={() => {
-          window.open("mailto:levispanseriya.78@gmail.com");
+          window.open("mailto:vaghanineel1201@gmail.com");
         }}
         className="mailIcon"
         style={{
@@ -46,7 +46,7 @@ export default function menu() {
       />
       <RiLinkedinLine
         onClick={() => {
-          window.open("https://www.linkedin.com/in/levispanseriya/");
+          window.open("https://www.linkedin.com/in/neel-vaghani/");
         }}
         className="linkedinIcon"
         style={{
